@@ -20,7 +20,7 @@ x = (-(-b) + dela ** (1/2)) / 2 *a
 if  a > 0:
     equaçao = True
 #   if equaçao == True:
-        
+         
 else:
     equaçao = False
 
